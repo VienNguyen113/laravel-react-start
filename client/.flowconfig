@@ -1,0 +1,10 @@
+[ignore]
+.*/build/.*
+.*/__tests__/.*
+
+[include]
+./src/index.js
+
+[libs]
+
+[options]

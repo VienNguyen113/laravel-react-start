@@ -1,0 +1,3 @@
+- composer install
+- rename .env.example to .env then set config your DB
+- php artisan key:generate
